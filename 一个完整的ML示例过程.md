@@ -12,7 +12,7 @@
         - 例如：决策树（Decision Tree）、贝叶斯分类算法（Native Dayesion Classification）、最小二乘法（Ordinary Least Squares Resgression）、逻辑回归（Logistic Regression）、支持向量机（Support Vector Machine即SVM）、组合方法（Ensemble Methods）
       - 非监督学习即指目标没有提前指定，存在潜在关系的。
         - 例如：聚类算法（Clustering Algorithms）、主成分分析（Principal Component Analysis，PCA）、奇异值分解（Singular Value Decomposition）、独立成分分析（Independent Component Analysis）
-    4. Train Model  
+    4.Train Model  
     5.Score Model
     6.Evaluate Model
   - [定型和评估实验](https://docs.microsoft.com/zh-cn/azure/machine-learning/machine-learning-walkthrough-4-train-and-evaluate-models)
