@@ -27,7 +27,7 @@
   - 访问Web服务
     - 两种方式：请求响应服务RRS（Request Response Service）、批量执行服务BES（Batch Excute Service）
     - RRS：向服务器发送一行或多行/返回一个或多个数据集。（APIURL、APIKEY、JSONBODY）
-    - BES：将数据的一行或多行存储在Azure Blob,发送Blob位置到服务/服务对Blob的行分析将结果存储在另一个Blob，返回该Blob URL。  （APIURL、APIKEY、JSONBODY、JOBID）
+    - BES：将数据的一行或多行存储在Azure Blob,发送Blob位置到服务/服务对Blob的行分析将结果存储在另一个Blob，返回该Blob URL。  （APIURL、APIKEY、JSONBODY、JOBID、STARTJOBURL）
     - [官方说明](https://docs.microsoft.com/zh-cn/azure/machine-learning/machine-learning-consume-web-services)
   
   - [ML机器学习文档](https://docs.microsoft.com/zh-cn/azure/machine-learning)
